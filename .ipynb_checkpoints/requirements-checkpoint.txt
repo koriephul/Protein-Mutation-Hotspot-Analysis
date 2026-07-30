@@ -1,0 +1,11 @@
+biopython
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+umap-learn
+xgboost
+tensorflow
+blosum
